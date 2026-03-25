@@ -31,3 +31,16 @@ Journal: IJNRD(2025)
    pip install -r requirements.txt
 3. Run:
    python app.py
+   
+## 📄 Research Paper
+
+📌 Title: Implementing Multi-Factor Authentication with QR Codes  
+📌 Published in: IJNRD (2025)
+
+🔗 View Research Paper
+
+## 🏆 Publication Certificate
+
+This project is supported by an official publication certificate:
+
+📜 View Certificate
