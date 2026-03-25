@@ -1,5 +1,5 @@
 # QR Based Multi-Factor Authentication System
-
+🚀 Published Research Project | QR-Based MFA Authentication System
 This project implements a secure multi-factor authentication (MFA) system using QR codes and OTP verification.
 
 ## 🔍 Overview
@@ -22,7 +22,8 @@ The system enhances login security by combining:
 
 ## 📄 Research Paper
 This project is based on our published research:
-"Implementing Multi-Factor Authentication with QR Codes"
+Title: "Implementing Multi-Factor Authentication with QR Codes"
+Journal: IJNRD(2025)
 
 ## 🛠️ How to Run
 1. Clone the repo
